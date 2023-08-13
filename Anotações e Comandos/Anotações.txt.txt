@@ -5,3 +5,7 @@ GIT ADD -A
 ** git commit -m " (Dentro das " a mensagem para subir para o git)
 
  ** git push origin main ( Para subir para a nuvem no git)
+
+Adicionar os arquivos modificados ao índice do Git usando o comando git add4.
+Fazer um commit das suas alterações usando o comando git commit -m "mensagem"4.
+Enviar as suas alterações para o repositório remoto usando o comando git push4.
