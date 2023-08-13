@@ -1,3 +1,7 @@
 ** ADICIONAR UM ARQUIVO NO GIT
 
 GIT ADD -A
+
+** git commit -m " (Dentro das " a mensagem para subir para o git)
+
+ ** git push origin main ( Para subir para a nuvem no git)
